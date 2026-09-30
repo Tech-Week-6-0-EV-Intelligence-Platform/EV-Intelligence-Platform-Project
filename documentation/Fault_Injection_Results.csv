@@ -1,0 +1,8 @@
+TestCase,ExpectedFault,ActualFault,TriggerPass,ActualAfterRecovery,RecoveryPass
+F001_Overvoltage,1,1,1,0,1
+F002_Overtemp,2,2,1,0,1
+F003_LowSOC,3,3,1,0,1
+F004_Overtorque,4,4,1,0,1
+F005_CommsLost,5,5,1,0,1
+F006_Overcurrent,6,6,1,0,1
+F007_Undervoltage,7,7,1,0,1
